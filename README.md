@@ -1,33 +1,33 @@
-🖥️Python Çalışmaları🖥️
+🖥️Python Studies🖥️
 
-📍Bu depoda, Python programlama dili üzerine yaptığım çalışmaları temel seviyeden ileri seviyeye kadar organize edilmiş bir şekilde bulabilirsiniz. Amacım, Python'da başlangıç düzeyinden ileri seviyeye kadar olan yolculuğumu paylaşarak, bu yolda ilerlemek isteyenlere rehberlik etmek ve öğrendiklerimi dokümante etmektir.
+📍In this repository, you can find my studies on the Python programming language organized from basic to advanced levels. My goal is to share my journey from beginner to advanced level in Python, to guide those who want to progress on this path and to document what I have learned.
 
-🧾İçindekiler
+🧾Contents
 
-1)Giriş ve Temel Bilgiler
+1) Introduction and Basics
 
-a)Python'a Giriş
-b)Değişkenler ve Veri Tipleri
-c)Operatörler
-d)Koşullu İfadeler ve Döngüler
-e)Fonksiyonlar ve Modüler Programlama
+a) Introduction to Python
+b) Variables and Data Types
+c) Operators
+d) Conditional Expressions and Loops
+e) Functions and Modular Programming
 
-2)Orta Seviye Python
+2) Intermediate Python
 
-a)Veri Yapıları (Listeler, Demetler, Kümeler, Sözlükler)
-b)Dosya İşlemleri
-c)Hata Yönetimi ve Hata Ayıklama
-d)Nesne Yönelimli Programlama (OOP)
-e)Modüller ve Paketler
-f)İleri Seviye Python
+a) Data Structures (Lists, Tuples, Sets, Dictionaries)
+b) File Operations
+c) Error Handling and Debugging
+d) Object Oriented Programming (OOP)
+e) Modules and Packages
+f) Advanced Python
 
-3)Fonksiyonel Programlama
+3) Functional Programming
 
-a)İleri Düzey OOP: Miras, Çok Biçimlilik ve Soyutlama
-b)Python'da İleri Konular: Generatörler, Iteratörler, Decorator'ler
-c)Veri İşleme ve Görselleştirme Kütüphaneleri (NumPy, Pandas, Matplotlib, Seaborn)
-d)Makine Öğrenmesi ve Yapay Zeka Uygulamaları (Scikit-learn, TensorFlow, Keras)
-e)Projeler ve Uygulamalar
+a) Advanced OOP: Inheritance, Polymorphism and Abstraction
+b) Advanced Topics in Python: Generators, Iterators, Decorators
+c) Data Processing and Visualization Libraries (NumPy, Pandas, Matplotlib, Seaborn)
+d)Machine Learning and Artificial Intelligence Applications (Scikit-learn, TensorFlow, Keras)
+e)Projects and Applications
 
-📎Nasıl Kullanılır?
-📌Bu depoyu klonlayarak veya indirerek Python çalışmalarını inceleyebilir, kendi projelerinize ilham alabilirsiniz. Her bölüm detaylı açıklamalar ve kod örnekleri ile desteklenmiştir.
+📎How to Use?
+📌You can examine Python studies by cloning or downloading this repository and get inspiration for your own projects. Each section is supported by detailed explanations and code examples.
