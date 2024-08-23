@@ -1,4 +1,5 @@
 🖥️Python Çalışmaları🖥️
+
 📍Bu depoda, Python programlama dili üzerine yaptığım çalışmaları temel seviyeden ileri seviyeye kadar organize edilmiş bir şekilde bulabilirsiniz. Amacım, Python'da başlangıç düzeyinden ileri seviyeye kadar olan yolculuğumu paylaşarak, bu yolda ilerlemek isteyenlere rehberlik etmek ve öğrendiklerimi dokümante etmektir.
 
 🧾İçindekiler
